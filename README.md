@@ -150,4 +150,4 @@ https://www.kaggle.com/datasets/your-username/vision-project-data
 
 **Afaf Farah Zenaini**
 
-Master's Student in Information Systems Engineering
+Master's Student in Intelligent Computer Systems
