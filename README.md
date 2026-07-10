@@ -36,22 +36,7 @@ The work investigates BARF on both a synthetic dataset (Blender Lego) and a real
 
 ---
 
-## Repository Structure
 
-```
-Vision_Project/
-│
-├── notebooks/
-│   ├── vision_data_public_training_evaluation.ipynb
-│   ├── vision_data_reel_training.ipynb
-│   └── vision_data_reel_evaluation.ipynb
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
 
 ## Experiments
 
