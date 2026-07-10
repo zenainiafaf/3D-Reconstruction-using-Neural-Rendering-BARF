@@ -134,7 +134,7 @@ Due to GitHub storage limitations, the following resources are available on Kagg
 **Kaggle Dataset**
 
 ```
-https://www.kaggle.com/datasets/your-username/vision-project-data
+https://www.kaggle.com/datasets/afaffarahzenaini/barf-3d-reconstruction-resources
 ```
 
 ---
