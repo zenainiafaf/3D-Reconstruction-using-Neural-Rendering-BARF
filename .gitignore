@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Checkpoints
+*.ckpt
+*.pth
+*.pt
+
+# TensorBoard
+events.out.tfevents.*
+training/tensorboard/
+
+# Databases
+*.db
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# OS
+.DS_Store
+Thumbs.db
